@@ -1,40 +1,40 @@
 Contenido  
-[Contexto de la organización	2](#contexto-de-la-organización)
+[Contexto de la organización	2]
 
-[Tipo de servicio	2](#tipo-de-servicio)
+[Tipo de servicio	2]
 
-[Activos	2](#activos)
+[Activos	2]
 
-[Entorno	3](#entorno)
+[Entorno	3]
 
-[Marco normativo	3](#marco-normativo)
+[Marco normativo	3]
 
-[Elección y justificación	4](#elección-y-justificación)
+[Elección y justificación	4]
 
-[Términos y definiciones	5](#términos-y-definiciones)
+[Términos y definiciones	5]
 
-[Liderazgo del SGSI	6](#liderazgo-del-sgsi)
+[Liderazgo del SGSI	6]
 
-[Responsabilidades	6](#responsabilidades)
+[Responsabilidades	6]
 
-[Compromiso	7](#compromiso)
+[Compromiso	7]
 
-[Alcance	7](#alcance)
+[Alcance	7]
 
-[Planificación del SGSI	8](#planificación-del-sgsi)
+[Planificación del SGSI	8]
 
-[Metodología de análisis de riesgos	8](#metodología-de-análisis-de-riesgos)
+[Metodología de análisis de riesgos	8]
 
-[Objetivos de la seguridad de la información	8](#objetivos-de-la-seguridad-de-la-información)
+[Objetivos de la seguridad de la información	8]
 
-[Bibliografía	10](#bibliografía)
+[Bibliografía	10]
 
-# Contexto de la organización  {#contexto-de-la-organización}
+# Contexto de la organización  
 
 Nombre del banco: ChamBank  
 ChamBank es un banco europeo orientado a ofrecer servicios financieros a clientes individuales o empresas. Se caracteriza por su enfoque en estar actualizado, es decir, que mayoritariamente se base en servicios digitalizados. Con dichos servicios el banco espera poder llevar a cabo soluciones financieras seguras y eficientes y accesibles para todo el mundo que las requiera. 
 
-## Tipo de servicio {#tipo-de-servicio}
+## Tipo de servicio 
 
 ChamBank opera en diversos campos relacionados con el sector financiero:
 
@@ -57,7 +57,7 @@ Los servicios que ofrece, en base a los campos en los que el banco opera, son:
 * Apis con servicios que cuentan con tecnología financiera  
 * Atención al cliente(Contacto directo desde la app)
 
-## Activos {#activos}
+## Activos 
 
 Como otros bancos, este almacena información confidencial de clientes individuales o de empresas/compañías que nos tengan como servicio. También el banco cuenta con colaboradores externos que aportan más ayuda a ampliar y mantener los servicios del banco. Esto se menciona ya que en estos aspectos existen una serie de activos que hay que tener en cuenta:
 
@@ -73,7 +73,7 @@ Como otros bancos, este almacena información confidencial de clientes individua
 
 (España, 2024)
 
-## Entorno {#entorno}
+## Entorno 
 
 Al ser un banco europeo, se encuentra (por “defecto”) en un entorno competitivo con otras entidades similares. Al igual que otros servicios financieros, este banco está atado a diversas regulaciones y reglamentos que está obligado a seguir como:
 
@@ -95,7 +95,7 @@ Luego ,respecto al entorno interno del banco, la organización depende de:
 * Apps web o móviles  
 * Personal especializado
 
-# Marco normativo {#marco-normativo}
+# Marco normativo 
 
 En el SGSi(Sistema de gestión de seguridad de la información) se han seleccionado estándares para tener en cuenta a implementar que otras entidades financieras siguen y que son estándares internacionales. Eso se ha llevado a cabo para garantizar el correcto mantenimiento y seguridad de los servicios que el banco da y la seguridad de los propios datos que se recopilan, aparte de que se analizan varios para tener un abanico de posibilidades válidas. Algunos de los marcos tomados en cuenta son:
 
@@ -159,11 +159,11 @@ En el SGSi(Sistema de gestión de seguridad de la información) se han seleccion
 
 (SGSI, 2020)
 
-## Elección y justificación {#elección-y-justificación}
+## Elección y justificación 
 
 Tras analizar los diferentes marcos, se han elegido como principales a desarrollar ,y elegidos, la ISO 27001 y DORA por varias razones. Por ejemplo, la iso 27001 se ha elegido porque es una referencia para la implementación de un SGSI(Siendo la principal base de dicho sistema) aportando así un marco estructurado para poder gestionar la seguridad de la información. También , la ISO, incluye medidas de protección para la confidencialidad ,integridad y disponibilidad de los datos y , en un aspecto “general” de la ciberseguridad, cuente con una “ideología” de mejora continua, permitiendo la posible “evolución” del SGSI. Aparte , la iso 27001 está reconocida internacionalmente. Por otro lado, DORA,siendo un cumplimiento regulatorio sectorial aplicable al sector financiero, es aplicable para bancos por lo que es una buena consideración a tener en cuenta a aplicar. DORA puede ayudar a reforzar aspectos en los que la iso flojea, como la resiliencia operativa la cual permite a los bancos seguir ofreciendo sus servicios o recuperarse rápidamente frente a ataques. Además, DORA es obligatorio para entidades financieras europeas.
 
-# Términos y definiciones {#términos-y-definiciones}
+# Términos y definiciones 
 
 * SGSI  
   Siendo definido como sistema de gestión de seguridad de la información, consta de un conjunto de principios o procedimientos que se usan para identificar riesgos y definir pasos de mitigación de los mismos garantizando así que las empresas puedan mantener seguros los datos y la información  
@@ -201,7 +201,7 @@ Tras analizar los diferentes marcos, se han elegido como principales a desarroll
   (Anon., 2023)
 
 
-# Liderazgo del SGSI {#liderazgo-del-sgsi}
+# Liderazgo del SGSI 
 
 Para poder llevar a cabo el SGSI ,con los marcos elegidos, se deben establecer roles para que tengan cada uno ciertas responsabilidades:
 
@@ -220,7 +220,7 @@ Para poder llevar a cabo el SGSI ,con los marcos elegidos, se deben establecer r
 
 (INCIBE, 2023)
 
-## Responsabilidades  {#responsabilidades}
+## Responsabilidades  
 
 Dadas las definiciones, se pueden establecer responsabilidades y roles de los puestos mencionados en ChamBank:
 
@@ -238,7 +238,7 @@ Aparte de asignar roles adecuados, se debe asignar una estructura ordenada, defi
 * El CSO trabaja junto con el CISO respecto a los aspectos de la seguridad física y lógica  
 * Se debe conformar un grupo formado por el CEO,CISO,CTO y el CDO que se encargue de revisar el estado del SGSI y de, por ende, tomar decisiones estratégicas en reuniones trimestrales
 
-## Compromiso {#compromiso}
+## Compromiso 
 
 Esta asignación de roles-responsabilidades en el banco, muestra el interés en la correcta implementación del SGSI:
 
@@ -251,7 +251,7 @@ Esta asignación de roles-responsabilidades en el banco, muestra el interés en 
 (Mota, 2023)  
 (27001, 2022)
 
-# Alcance {#alcance}
+# Alcance 
 
 Definir el alcalde del SGSI con los marcos sirve para planificar lo que se piensa hacer a futuro, es decir, para definir una “estrategia clara” antes de empezar. Normalmente, antes de planificar una estrategia, para definir el alcance,  se deben identificar los activos a proteger, los cuales son:
 
@@ -277,7 +277,7 @@ Se han elegido esos activos que se consideran prioritarios ya que , objetivament
 * Cumplir con las normativas ISO 27001 y DORA  
 * Priorizar los activos críticos del banco en caso de incidente 
 
-# Planificación del SGSI {#planificación-del-sgsi}
+# Planificación del SGSI 
 
 Antes de implementar el SGSI , se debe planificar su incorporación para que se integre correctamente en el banco. Hay que planificar ,por ejemplo, metodologías de análisis de riesgos y soluciones ante dichos riesgos y los objetivos que se tienen respecto a la seguridad de la información se deben definir. Tras planificar ambos puntos, será más fácil la implementación del SGSI
 
@@ -304,7 +304,7 @@ Siguiendo una metodología de gestión/análisis de riesgos:
 
 (27001, 2022)
 
-## Objetivos de la seguridad de la información {#objetivos-de-la-seguridad-de-la-información}
+## Objetivos de la seguridad de la información 
 
 Al implantar el SGSI, el principal aspecto que se debe tener en cuenta es la mejora continua, es decir, en parte, la corrección de vulnerabilidades y la práctica para detener nuevas amenazas. Se deben establecer varios objetivos para garantizar la seguridad de la información:
 
@@ -316,7 +316,7 @@ Al implantar el SGSI, el principal aspecto que se debe tener en cuenta es la mej
 
 (Anon., 2022)
 
-# Bibliografía {#bibliografía}
+# Bibliografía 
 
 27001, I., 2022. *Liderazgo en ISO 27001.* [En línea]   
 Available at: https://www.normaiso27001.es/liderazgo-en-iso-27001/  
