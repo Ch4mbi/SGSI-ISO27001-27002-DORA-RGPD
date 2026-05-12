@@ -774,141 +774,187 @@ Propts:
 27001, I., 2022. Liderazgo en ISO 27001. [En línea] 
 Available at: https://www.normaiso27001.es/liderazgo-en-iso-27001/
 [Último acceso: 28 3 2026].
+
 27001, I., 2022. Objeto y Campo de Aplicación Definición del Alcance del SGSI. [En línea] 
 Available at: https://www.normaiso27001.es/objeto-y-campo-de-aplicacion/
 [Último acceso: 28 3 2026].
+
 27001, I., 2022. Planificación en ISO 27001. [En línea] 
 Available at: https://www.normaiso27001.es/planificacion-en-iso-27001/
 [Último acceso: 28 3 2026].
+
 27001, I., 2025. A8 GESTION DE ACTIVOS. [En línea] 
 Available at: https://www.normaiso27001.es/a8-gestion-de-activos/
 [Último acceso: 1 4 2026].
+
 AG, O., 2025. SGSI – Gestione y proteja los datos corporativos con un Sistema de Gestión de Seguridad de la Información. [En línea] 
 Available at: https://otrs.com/es/casos-de-uso/sgsi/
 [Último acceso: 26 3 2026].
+
 Allianz, 2025. Activos financieros: qué son, tipos y mercados donde se negocian. [En línea] 
 Available at: https://www.allianz.es/blog/empresas/5-tipos-activos-financieros.html
 [Último acceso: 1 4 2026].
+
 alvarez, j., 2024. Análisis del Valor Monetario Esperado. [En línea] 
 Available at: https://prezi.com/p/2cxt8dqymbgo/analisis-del-valor-monetario-esperado/
 [Último acceso: 4 4 2026].
+
 Álvarez, J. D. P., 2024. ¿Qué es el reglamento DORA?. [En línea] 
 Available at: https://www.incibe.es/empresas/blog/que-es-el-reglamento-dora
 [Último acceso: 22 3 2025].
+
 Anon., 2022. Mejora en ISO 27001. [En línea] 
 Available at: https://www.normaiso27001.es/mejora-en-iso-27001/
 [Último acceso: 28 3 2026].
+
 Anon., 2023. Riesgo residual en ciberseguridad: aceptar lo inevitable para gestionar mejor. [En línea] 
 Available at: https://4biz.es/2025/08/31/riesgo-residual-en-ciberseguridad-aceptar-lo-inevitable-para-gestionar-mejor/
 [Último acceso: 26 3 2026].
+
 Anon., 2025. Ciberseguridad en las finanzas: amenazas y estrategias clave. [En línea] 
 Available at: https://www.sentinelone.com/es/cybersecurity-101/cybersecurity/cyber-security-in-finance/
 [Último acceso: 2 4 2026].
+
 Anon., 2025. Cómo prevenir un ataque de inyección de SQL. [En línea] 
 Available at: https://blog.lacnic.net/como-prevenir-ataque-inyeccion-sql/
 [Último acceso: 4 4 2026].
+
 Anon., 2026. ¿Qué son los activos financieros y cómo se clasifican?. [En línea] 
 Available at: https://www.bbva.es/finanzas-vistazo/ef/fondos-inversion/activos-financieros.html
 [Último acceso: 1 4 2026].
+
 Caña, T., 2025. Cómo desarrollar planes de tratamiento de riesgos ISO 27001 que generen resultados. [En línea] 
 Available at: https://es.isms.online/iso-27001/risk-management/risk-treatment-plans/
 [Último acceso: 7 4 2026].
+
 Clay, J., 2026. Qué es un ataque XSS o Cross-Site Scripting?. [En línea] 
 Available at: https://www.trendmicro.com/es_es/what-is/cyber-attack/xss-cross-site-scripting.html
 [Último acceso: 2 4 2026].
+
 CLOUDFLARE, 2026. Cómo prevenir los ataques XSS. [En línea] 
 Available at: https://www.cloudflare.com/es-es/learning/security/how-to-prevent-xss-attacks/
 [Último acceso: 5 4 2026].
+
 Danby, S., 2026. La ISO 27001 y la Gestión de Activos: ¿Qué dice el anexo A.8.1?. [En línea] 
 Available at: https://blog.invgate.com/es/iso-27001-gestion-activos
 [Último acceso: 1 4 2026].
+
 digna, 2023. 7 Incidentes Más Terribles Causados por la Mala Calidad de Datos en el Sector Bancario. [En línea] 
 Available at: https://www.digna.ai/es/7-m%C3%A1s-despamados-incidentes-causados-por-baja-calidad-de-datos-en-el-sector-bancario
 [Último acceso: 2 4 2026].
+
 Enrique, E., 2026. Gobierno de la seguridad de la información, políticas y principios del SGSI. [En línea] 
 Available at: https://drive.google.com/file/d/1ZSgQ6bdV-LfsYL9Fn_UrbotFF8DsGBzI/view
 [Último acceso: 3 4 2026].
+
 España, B. d., 2024. Tipos de productos y servicios bancarios. [En línea] 
 Available at: https://www.consumoresponde.es/art%C3%ADculos/tipos_de_productos_y_servicios_bancarios
 [Último acceso: 21 3 2026].
+
 Europea, C. d. l. U., 2025. Regulación bancaria. [En línea] 
 Available at: https://www.consilium.europa.eu/es/policies/banking-regulation/
 [Último acceso: 21 3 2026].
+
 Fernandez, A., 2024. 5 pasos clave para el cumplimiento de la DORA. [En línea] 
 Available at: https://www.hycu.com/es/blog/5-key-steps-dora-compliance
 [Último acceso: 5 4 2026].
+
 Fortinet, 2025. ¿Qué es la inyección SQL?. [En línea] 
 Available at: https://www.fortinet.com/lat/resources/cyberglossary/sql-injection
 [Último acceso: 2 4 2026].
+
 Fortinet, 2025. ¿Qué es la tríada CIA?. [En línea] 
 Available at: https://www.fortinet.com/lat/resources/cyberglossary/cia-triad
 [Último acceso: 1 4 2026].
+
 Fortinet, 2026. ¿Qué es la tríada CIA?. [En línea] 
 Available at: https://www.fortinet.com/lat/resources/cyberglossary/cia-triad
 [Último acceso: 26 3 2026].
+
 Fortinet, 2026. Significado de la superficie de ataque. [En línea] 
 Available at: este es el mensaje q le he mandado a un amigo de lo q ha pasado en la clase de hoy sabado:
 [Último acceso: 26 3 2026].
+
 Holloway, D., 2022. Criterios de riesgo ISO 27001: Guía completa. [En línea] 
 Available at: https://es.isms.online/iso-27001/risk-management/risk-criteria/
 [Último acceso: 2 4 2026].
+
 IBM, 2025. ¿Qué son los controles de seguridad?. [En línea] 
 Available at: https://www.ibm.com/es-es/think/topics/security-controls
 [Último acceso: 26 3 2026].
+
 INCIBE, 2023. Roles en ciberseguridad: desde el CEO a los usuarios finales. [En línea] 
 Available at: https://www.incibe.es/empresas/blog/roles-en-ciberseguridad-desde-el-ceo-los-usuarios-finales
 [Último acceso: 27 3 2026].
+
 ISO, 2024. ISO/IEC 27001:2022. [En línea] 
 Available at: https://www.iso.org/es/norma/27001
 [Último acceso: 22 3 2025].
+
 ISOWin, 2017. El Plan de Tratamiento de Riesgos en la norma ISO 27001 2017. [En línea] 
 Available at: https://isowin.org/blog/plan-tratamiento-riesgos-ISO-27001/
 [Último acceso: 7 4 2026].
+
 Kaseya, 2025. ¿Qué es el robo de tokens?. [En línea] 
 Available at: https://www.kaseya.com/es-la/blog/what-is-token-theft/
 [Último acceso: 2 4 2026].
+
 Kelly, B., 2021. Amenazas de seguridad en los servicios financieros. [En línea] 
 Available at: https://www.globalsign.com/es/blog/5-friday-5-security-threats-facing-financial-services-industry
 [Último acceso: 26 3 2025].
+
 Mexicana, B. I., 2026. ¿Qué significa el certificado ISO 27001 en un banco?. [En línea] 
 Available at: https://www.bim.mx/que-significa-el-certificado-iso-27001-en-un-banco/
 [Último acceso: 13 4 2026].
+
 Mota, A., 2023. Definiendo los Roles y Responsabilidades ISO 27001. [En línea] 
 Available at: https://innevo.com/blog/roles-y-responsabilidades-iso-27001
 [Último acceso: 27 3 2026].
+
 OpenLearn, 2026. Different types of control. [En línea] 
 Available at: https://www.open.edu/openlearn/mod/oucontent/view.php?id=88999&section=6.2#:~:text=A%20simple%20diagram%20of%204,must%20be%20a%20corrective%20element.
 [Último acceso: 8 4 2026].
+
 raisin, 2025. Activos financieros: definición y características. [En línea] 
 Available at: https://www.raisin.com/es-es/inversion/activos-financieros-que-son-como-se-clasifican-ejemplos/
 [Último acceso: 1 4 2026].
+
 Santander, B., 2024. ¿Qué es un incidente de seguridad?. [En línea] 
 Available at: https://www.bancosantander.es/glosario/incidente-seguridad
 [Último acceso: 26 3 2026].
+
 Santander, B., 2024. ¿Qué son los activos financieros y cómo se clasifican?. [En línea] 
 Available at: https://www.bancosantander.es/glosario/activos-financieros
 [Último acceso: 26 3 2025].
+
 SGSI, 2020. ISO27000.ES. [En línea] 
 Available at: https://www.iso27000.es/sgsi.html
 [Último acceso: 22 3 2025].
+
 Stripe, 2024. ¿Qué es la normativa PSD2? Lo que las empresas deben saber. [En línea] 
 Available at: https://stripe.com/es/resources/more/what-is-psd2-here-is-what-businesses-need-to-know
 [Último acceso: 24 3 2025].
+
 Sunrise, D., 2026. Explorando los Tipos de Controles de Seguridad para la protección de datos. [En línea] 
 Available at: https://www.datasunrise.com/es/centro-de-conocimiento/tipos-de-controles-de-seguridad/
 [Último acceso: 5 4 2026].
+
 Team, S. C., 2025. Análisis de riesgo cualitativo y cuantitativo. [En línea] 
 Available at: https://safetyculture.com/es/temas/analisis-cualitativo
 [Último acceso: 3 4 2026].
+
 Team, S. C., 2025. Análisis de riesgos: Una guía completa. [En línea] 
 Available at: https://safetyculture.com/es/temas/analisis-de-riesgos
 [Último acceso: 3 4 2026].
+
 TryHackMe, 2026. The CIA Triad. [En línea] 
 Available at: https://tryhackme.com/room/theciatriad
 [Último acceso: 26 3 2026].
+
 Union, E., 2022. Reglamento general de protección de datos (RGPD). [En línea] 
 Available at: https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html
 [Último acceso: 22 3 2025].
+
 Wikipedia, 2020. Riesgo bancario. [En línea] 
 Available at: https://es.wikipedia.org/wiki/Riesgo_bancario
 [Último acceso: 26 3 2025].
