@@ -1,6 +1,6 @@
 
 # **1.Context - de la organización**  
-
+ 
 Nombre del banco: ChamBank 
 
 ChamBank es un banc - europe - orientad - a ofrecer servicios financieros a clientes individuales  -  empresas. Se caracteriza por su enfoque en estar actualizado, es decir, que mayoritariamente se base  en servicios digitalizados. Con dichos servicios el banc - espera poder llevar a cab - soluciones  financieras seguras y eficientes y accesibles para tod - el mund - que las requiera.  
