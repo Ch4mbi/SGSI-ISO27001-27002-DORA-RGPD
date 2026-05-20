@@ -619,18 +619,13 @@ Dichos activos identificados, se van a clasificar en base a la ISO27001 para ten
     
 
 - App de banca online🡪Software/Programas
+    - Importancia: Alta    
+    - CID:
+        - C 🡪Alta: Un acceso no autorizado podría comprometer varias cuentas ya que se almacenan credenciales o datos financieros.
     
-
-- Importancia: Alta
+        - I 🡪Alta: La modificación de la aplicación permitiría llevar a cabo fraudes, o accesos no autorizados.
     
-- CID:
-    
-
-- C 🡪Alta: Un acceso no autorizado podría comprometer varias cuentas ya que se almacenan credenciales o datos financieros.
-    
-- I 🡪Alta: La modificación de la aplicación permitiría llevar a cabo fraudes, o accesos no autorizados.
-    
-- D 🡪Alta: Es la principal manera que tienen los clientes de acceder a sus cuentas, por lo que debe estar disponible todo el rato.
+        - D 🡪Alta: Es la principal manera que tienen los clientes de acceder a sus cuentas, por lo que debe estar disponible todo el rato.
     
 
 - Infraestructura cloud🡪Infraestructura
