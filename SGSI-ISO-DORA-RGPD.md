@@ -1,133 +1,8 @@
-Contenido	  
-[**1.Contexto de la organización**	4](#1.contexto-de-la-organización)
-
-[**1.1. Tipo de servicio**	4](#1.1.-tipo-de-servicio)
-
-[**1.2. Activos**	4](#1.2.-activos)
-
-[**1.3. Entorno**	4](#1.3.-entorno)
-
-[**1.4. Justificación de aplicación de SGSI**	5](#1.4.-justificación-de-aplicación-de-sgsi)
-
-[**1.5. Partes interesadas**	6](#1.5.-partes-interesadas)
-
-[**2. Marco normativo**	6](#2.-marco-normativo)
-
-[**2.1. Elección y justificación**	7](#2.1.-elección-y-justificación)
-
-[**2.1.1. Aplicación**	8](#2.1.1.-aplicación)
-
-[**3.Términos y definiciones**	8](#3.términos-y-definiciones)
-
-[**4. Liderazgo del SGSI**	9](#4.-liderazgo-del-sgsi)
-
-[**4.1. Responsabilidades**	10](#4.1.-responsabilidades)
-
-[**4.2. Compromiso**	10](#4.2.-compromiso)
-
-[**5. Alcance**	11](#5.-alcance)
-
-[**6. Planificación del SGSI**	11](#6.-planificación-del-sgsi)
-
-[**6.1. Metodología de análisis de riesgos**	11](#6.1.-metodología-de-análisis-de-riesgos)
-
-[**6.2. Objetivos de la seguridad de la información**	12](#6.2.-objetivos-de-la-seguridad-de-la-información)
-
-[**7. Identificación de activos**	12](#7.-identificación-de-activos)
-
-[**8. Identificación y análisis de riesgos**	14](#8.-identificación-y-análisis-de-riesgos)
-
-[**8.1. Identificación**	14](#8.1.-identificación)
-
-[**8.2. Análisis de los riesgos**	15](#8.2.-análisis-de-los-riesgos)
-
-[**8.2.1. Análisis cualitativo**	15](#8.2.1.-análisis-cualitativo)
-
-[**8.2.2. Análisis cuantitativo**	16](#8.2.2.-análisis-cuantitativo)
-
-[**8.3. Tabla de análisis**	16](#8.3.-tabla-de-análisis)
-
-[**9. Tratamiento de riesgos**	19](#9.-tratamiento-de-riesgos)
-
-[**10. Plan de tratamiento de riesgos**	20](#10.-plan-de-tratamiento-de-riesgos)
-
-[**10.1. Acciones propuestas**	21](#10.1.-acciones-propuestas)
-
-[**10.2. Impacto de los controles del SGSI**	22](#10.2.-impacto-de-los-controles-del-sgsi)
-
-[**11. Implantación del SGSI**	23](#11.-implantación-del-sgsi)
-
-[**11.1. Recursos necesarios**	23](#11.1.-recursos-necesarios)
-
-[**11.2. Formaciones y competencias**	23](#11.2.-formaciones-y-competencias)
-
-[**11.3. Concienciación**	24](#11.3.-concienciación)
-
-[**11.4. Emergencias**	24](#11.4.-emergencias)
-
-[**12. Operación del SGSI**	25](#12.-operación-del-sgsi)
-
-[**12.1. Aplicar tratamientos de riesgos**	25](#12.1.-aplicar-tratamientos-de-riesgos)
-
-[**12.2. Integrar SGSI en el día a día**	27](#12.2.-integrar-sgsi-en-el-día-a-día)
-
-[**13. Evaluación del desempeño**	27](#13.-evaluación-del-desempeño)
-
-[**13.1. Monitorización**	27](#13.1.-monitorización)
-
-[**13.2. Auditorías internas**	28](#13.2.-auditorías-internas)
-
-[**13.3. Revisión**	28](#13.3.-revisión)
-
-[**14. Debilidades**	29](#14.-debilidades)
-
-[**14.1. Resultados**	29](#14.1.-resultados)
-
-[**14.2. Evaluación de cultura de seguridad**	30](#14.2.-evaluación-de-cultura-de-seguridad)
-
-[**15. Plan de mejora**	30](#15.-plan-de-mejora)
-
-[**15.1. No conformidades**	31](#15.1.-no-conformidades)
-
-[**15.2. Correcciones**	31](#15.2.-correcciones)
-
-[**15.3. Mejora continua**	32](#15.3.-mejora-continua)
-
-[**16. Análisis crítico**	33](#16.-análisis-crítico)
-
-[**16.1. Propósito de la ISO 27001 y 27002**	33](#16.1.-propósito-de-la-iso-27001-y-27002)
-
-[**16.2. Relación entre SGSI implantado y estándares**	33](#16.2.-relación-entre-sgsi-implantado-y-estándares)
-
-[**16.3. Ventajas de certificarse**	34](#16.3.-ventajas-de-certificarse)
-
-[**16.4. Limitaciones y riegos de enfoque muy normativo**	34](#16.4.-limitaciones-y-riegos-de-enfoque-muy-normativo)
-
-[**16.5. Evaluación crítica del sistema**	35](#16.5.-evaluación-crítica-del-sistema)
-
-[**16.5.1. Viabilidad organizativa**	35](#16.5.1.-viabilidad-organizativa)
-
-[**16.5.2. Costes estimados**	35](#16.5.2.-costes-estimados)
-
-[**16.5.3. Nivel de madurez**	36](#16.5.3.-nivel-de-madurez)
-
-[**16.5.4. Riesgo residual**	36](#16.5.4.-riesgo-residual)
-
-[**16.5.5. Sostenibilidad a largo plazo**	37](#16.5.5.-sostenibilidad-a-largo-plazo)
-
-[**16.6. Análisis crítico de principios clave del SGSI**	37](#16.6.-análisis-crítico-de-principios-clave-del-sgsi)
-
-[**17. Mapa de implementación del SGSI**	39](#17.-mapa-de-implementación-del-sgsi)
-
-[**18. Conclusiones**	40](#18.-conclusiones)
-
-[**Bibliografía**	42](#bibliografía)
-
-# **1.Contexto de la organización**  {#1.contexto-de-la-organización}
+# **1.Contexto de la organización** 
 
 ChamBank es un banco europeo orientado a ofrecer servicios financieros a clientes individuales o empresas. Se caracteriza por su enfoque en estar actualizado, es decir, que mayoritariamente se base en servicios digitalizados. Con dichos servicios el banco espera poder llevar a cabo soluciones financieras seguras y eficientes y accesibles para todo el mundo que las requiera. 
 
-## **1.1. Tipo de servicio** {#1.1.-tipo-de-servicio}
+## **1.1. Tipo de servicio** 
 
 ChamBank opera en diversos campos relacionados con el sector financiero:
 
@@ -145,7 +20,7 @@ Los servicios que ofrece, en base a los campos en los que el banco opera, son:
 * Apis con servicios que cuentan con tecnología financiera  
 * Atención al cliente (Contacto directo desde la app)
 
-## **1.2. Activos** {#1.2.-activos}
+## **1.2. Activos** 
 
 ChamBank almacena información confidencial de clientes individuales o de empresas/compañías que nos tengan como servicio. También el banco cuenta con colaboradores externos que aportan más ayuda a ampliar y mantener los servicios del banco. Esto se menciona ya que, en estos aspectos, en general, existen una serie de activos que hay que tener en cuenta:
 
@@ -161,7 +36,7 @@ ChamBank almacena información confidencial de clientes individuales o de empres
 
 (España, 2024)
 
-## **1.3. Entorno** {#1.3.-entorno}
+## **1.3. Entorno** 
 
 Al ser un banco europeo, se encuentra en un entorno competitivo con otras entidades similares. Al igual que otros servicios financieros, este banco está atado a diversas regulaciones y reglamentos que está obligado a seguir como:
 
@@ -183,7 +58,7 @@ Luego, respecto al entorno interno del banco, la organización depende de:
 * Apps web o móviles  
 * Personal especializado
 
-## **1.4. Justificación de aplicación de SGSI** {#1.4.-justificación-de-aplicación-de-sgsi}
+## **1.4. Justificación de aplicación de SGSI**
 
 La implantación de un SGSI, aparte de poder llegar a ser “opcional” para varias entidades (en ciertos casos), es una recomendación muy buena a tener en cuenta. Para ChamBank, la implantación de un SGSI ayuda en varios aspectos como: 
 
@@ -197,7 +72,7 @@ La implantación de un SGSI, aparte de poder llegar a ser “opcional” para va
 |  **Buena práctica** | Un SGSI bien implantado impulsa a la formación y concienciación de los empleados respecto a la seguridad, ayudando a la reducción de errores humanos reduciendo una buena parte de los riesgos. |
 |  **Mejora continua** | El SGSI impulsa al banco a mejorar de manera continua. Esto se debe en parte a las regulaciones ya que el banco debe de estar al día respecto a las normativas que siga con el SGSI o que se le imponga. También ayuda a adaptarse ante nuevas amenazas, aprender de errores pasados (humanos, operacionales, etc.) y a evolucionar para estar al día respecto a la competencia.  |
 
-## **1.5. Partes interesadas** {#1.5.-partes-interesadas}
+## **1.5. Partes interesadas** 
 
 Tras analizar la justificación de la implantación de un SGSI, también hay que pensar en a quienes interna y externamente les interesa dicha implantación del sistema ya sea por beneficio, seguridad, confianza, etc. Algunos de los posibles interesados son:
 
@@ -207,7 +82,7 @@ Tras analizar la justificación de la implantación de un SGSI, también hay que
 * Los auditores están interesados ya que el SGSI tiene una función de mejora continua respecto a eventos pasados, es decir, los auditores, aparte de asegurarse de que el SGSI esté bien implantado con reglamentos bien definidos, quieren ver que la entidad bancaria funcione correctamente y que no tengan que sancionar a ChamBank.  
 * Los proveedores o terceros están interesados ya que, al querer hacer tratos con ChamBank, quieren saber el alcance que tienen, si ellos van a estar seguros, que medidas de seguridad se implementarán, etc.
 
-# **2. Marco normativo** {#2.-marco-normativo}
+# **2. Marco normativo** 
 
 ChamBank, como entidad financiera con APIs abiertas, servicios móviles, y con un alcance internacional europeo, necesita un marco normativo que cubra la gestión de la seguridad de la información, la resiliencia operativa ante diversos incidentes de todo tipo, y la protección de datos personales. Ninguna norma, o reglamento, por si misma es capaz de cubrir todos los puntos de la seguridad, de ahí que se decida combinar diversos marcos tecnológicos: 
 
@@ -224,12 +99,12 @@ ChamBank, como entidad financiera con APIs abiertas, servicios móviles, y con u
 
 Existen muchos más reglamentos que se pueden implementar al banco y/o al sector financiero o al menos a los servicios que la institución financiera aporte a los clientes o empleados, pero solo se han elegido los básicos que se pueden aplicar a ChamBank en un marco más general para la correcta implementación del SGSI.
 
-## **2.1. Elección y justificación** {#2.1.-elección-y-justificación}
+## **2.1. Elección y justificación** 
 
 Tras analizar los diferentes marcos, se han elegido como principales a desarrollar, y elegidos, la ISO 27001 y DORA por varias razones. Por ejemplo, la ISO 27001 se ha elegido porque es una referencia para la implementación del SGSI, aportando así un marco estructurado para poder gestionar la seguridad de la información. También, la ISO, incluye medidas de protección para la confidencialidad, integridad y disponibilidad de los datos y, en un aspecto “general” de la ciberseguridad, cuente con una “ideología” de mejora continua, permitiendo la posible “evolución” del SGSI. Aparte, la ISO 27001 está reconocida internacionalmente. Adicionalmente, se le puede aplicar el “extra” de la ISO 27002 para poder aplicar mejores controles de seguridad y tener un enfoque más activo frente a riesgos o incidentes. Por otro lado, DORA, siendo un cumplimiento regulatorio sectorial aplicable al sector financiero, es aplicable para bancos por lo que es una buena consideración a tener en cuenta a aplicar. DORA puede ayudar a reforzar aspectos en los que la ISO flojea, como la resiliencia operativa la cual permite a los bancos seguir ofreciendo sus servicios o recuperarse rápidamente frente a ataques. Además, DORA es obligatorio para entidades financieras europeas. Por otro lado, aunque es redundante, el RGPD también es muy importante, ya que se solapa parcialmente con la ISO 27001, por lo que también es buena consideración tener en cuenta dicho reglamento completo. Aparte de que dicho reglamento también ayuda con la protección de datos (siendo un factor redundante). Por eso, los reglamentos elegidos para indagar son: la ISO 27001 (con la ISO 27002), DORA, y el RGPD.  
 Basilea III no se elige ya que es un marco reglamentario más enfocado en operaciones bancarias más que en seguridad (aunque al mencionar dichas operaciones, se habla de la seguridad de las mismas o buenas prácticas).
 
-### **2.1.1. Aplicación** {#2.1.1.-aplicación}
+### **2.1.1. Aplicación** 
 
 Los marcos normativos aplicados (ISO, DORA, RGPD) no solo son teoría, sino que también sirven como aplicación directa a las operaciones que el banco lleva a cabo directamente.
 
@@ -242,7 +117,7 @@ Los marcos normativos aplicados (ISO, DORA, RGPD) no solo son teoría, sino que 
 
 Además, por el uso de APIs y/o los servicios de terceros, se debe prestar atención al cumplimiento normativo de las normativas asegurando que los servicios externos no las incumplan.
 
-# **3.Términos y definiciones** {#3.términos-y-definiciones}
+# **3.Términos y definiciones** 
 
 | Término | Definición |
 | ----- | ----- |
@@ -257,7 +132,7 @@ Además, por el uso de APIs y/o los servicios de terceros, se debe prestar atenc
 |  **Superficie de ataque**  | Es el número de todos los posibles puntos por los que un atacante puede intentar acceder ilegalmente a una red de una compañía, por ejemplo. Cuantos más servicios vinculados tiene la entidad, más superficie de ataque existe, por ejemplo, si una compañía se pasa a la nube, la superficie aumentará y habrá que defender más superficie.  (Fortinet, 2026) |
 |  **Riesgo residual**  | Es el riesgo que permanece después de haber implementado muchas medidas de seguridad en las que se haya pensado. En Chambank está formado por posibles vulnerabilidades zero-day, o errores humanos, o similares. (Anon., 2023) |
 
-# **4. Liderazgo del SGSI** {#4.-liderazgo-del-sgsi}
+# **4. Liderazgo del SGSI** 
 
 Para poder llevar a cabo el SGSI, con los marcos elegidos, se deben establecer roles para que tengan cada uno ciertas responsabilidades: 
 
@@ -272,7 +147,7 @@ Para poder llevar a cabo el SGSI, con los marcos elegidos, se deben establecer r
 
 (INCIBE, 2023)
 
-## **4.1. Responsabilidades**  {#4.1.-responsabilidades}
+## **4.1. Responsabilidades**  
 
 Dadas las definiciones, se pueden establecer responsabilidades y roles de los puestos mencionados en ChamBank:
 
@@ -290,7 +165,7 @@ Aparte de asignar roles adecuados, se debe asignar una estructura ordenada, defi
 * El CSO trabaja junto con el CISO respecto a los aspectos de la seguridad física y lógica.  
 * Se debe conformar en el banco un grupo formado por el CEO, CISO, CTO y el CDO que se encargue de revisar el estado del SGSI y de, por ende, tomar decisiones estratégicas en reuniones trimestrales.
 
-## **4.2. Compromiso** {#4.2.-compromiso}
+## **4.2. Compromiso** 
 
 Esta asignación de roles-responsabilidades en el banco, muestra el interés en la correcta implementación del SGSI:
 
@@ -304,7 +179,7 @@ Esta asignación de roles-responsabilidades en el banco, muestra el interés en 
 (27001, 2022)  
 La decisión de que el CISO reporte al CEO en lugar de al CTO se debe a que en ChamBank la seguridad de la información no es solo un problema técnico. Implica decisiones regulatorias, reputacionales y económicas que requieren de independencia funcional del área tecnológica para evitar que la innovación y la seguridad entren en conflicto por la prioridad.
 
-# **5. Alcance** {#5.-alcance}
+# **5. Alcance** 
 
 El alcance del SGSI de ChamBank define los sistemas, los procesos y las personas que gestionan y trabajan con información crítica para las operaciones bancarias, priorizando los activos con mayor exposición potencial y regulatoria y un mayor impacto potencial en caso de incidente:
 
@@ -343,9 +218,9 @@ Tras esta especificación de alcance, se tiene que especificar también los acti
 * Dispositivos de clientes personales ya que no son controlados por el banco.  
 * Infraestructura de los terceros con los que ChamBank trabaja, aunque su impacto será considerado en planes de continuidad del negocio.
 
-# **6. Planificación del SGSI** {#6.-planificación-del-sgsi}
+# **6. Planificación del SGSI** 
 
-## **6.1. Metodología de análisis de riesgos** {#6.1.-metodología-de-análisis-de-riesgos}
+## **6.1. Metodología de análisis de riesgos** 
 
 Se decidió que en ChamBank se adopte una metodología de análisis de riesgos mixta, combinando análisis cuantitativo y cualitativo por su contexto bancario. El análisis cualitativo permite clasificar amenazas en base a su probabilidad e impacto potencial cuando dicho impacto no se puede “monetizar”, como, por ejemplo, el aspecto reputacional. Por otro lado, el análisis cuantitativo se aplica con un enfoque más monetario o financiero, como pérdidas económicas por ataques, robos, fraude, caídas del servicio (por largos periodos) o incluso sanciones regulatorias o legales.  
 Usar solo el enfoque puramente cualitativo subestimaría los riesgos financieros concretos, mientras que usar únicamente un enfoque cuantitativo ignoraría riesgos de difícil monetización, pero de alto impacto estratégico para ChamBank.  
@@ -354,7 +229,7 @@ La metodología de análisis de riesgos sigue 4 fases: la identificación de act
 (27001, 2022)  
 El análisis de riesgos se llevará a cabo de manera trimestral (4 veces al año como mínimo) o tras incidentes de seguridad (tras ser propiamente analizados). El proceso de llevar a cabo el análisis de seguridad será gestionado por el CISO, junto con el equipo de seguridad. Una vez se obtengan los resultados, el comité los revisará y deberá aprobarlos.
 
-## **6.2. Objetivos de la seguridad de la información** {#6.2.-objetivos-de-la-seguridad-de-la-información}
+## **6.2. Objetivos de la seguridad de la información** 
 
 Al implantar el SGSI, el principal aspecto que se debe tener en cuenta es la mejora continua, es decir, en parte, la corrección de vulnerabilidades y la práctica para detener nuevas amenazas. Se deben establecer varios objetivos para garantizar la seguridad de la información:
 
@@ -367,7 +242,7 @@ Al implantar el SGSI, el principal aspecto que se debe tener en cuenta es la mej
 
 (Anon., 2022)
 
-# **7. Identificación de activos** {#7.-identificación-de-activos}
+# **7. Identificación de activos** 
 
 Los activos de ChamBank se clasifican siguiendo criterios de la ISO 27001: por tipo (información, infraestructura, software, humano) y por su criticidad CID (Confidencialidad, integridad y disponibilidad). Dicha clasificación permite vincular cada activo identificado en este apartado con los riesgos de cada uno del apartado 8, y los controles del plan de tratamiento Los activos detectados en ChamBank son:
 
@@ -404,9 +279,9 @@ Los activos de ChamBank se clasifican siguiendo criterios de la ISO 27001: por t
 * **Empleados**: La confidencialidad e integridad son medianos ya que depende del rol del empleado y sus permisos. La disponibilidad es alta ya que sin acceso a las herramientas que usa el mismo, o su función, las operaciones internas pueden detenerse o verse afectadas.  
 * **Clientes**: La confidencialidad es alta por las credenciales y datos que se manejan. La integridad y la disponibilidad son medias porque las acciones de un cliente afectan a su cuenta principalmente.
 
-# **8. Identificación y análisis de riesgos** {#8.-identificación-y-análisis-de-riesgos}
+# **8. Identificación y análisis de riesgos** 
 
-## **8.1. Identificación** {#8.1.-identificación}
+## **8.1. Identificación** 
 
 Ya con un análisis inicial de los activos, se va a llevar a cabo un análisis y valoración de los riesgos. Así, se permite determinar el nivel de riesgo en función de su probabilidad de que pase y el impacto potencial que puede llegar a tener. Se va a seguir con un enfoque alineado con la ISO27001. Según la iso, hay que identificar, analizar y evaluar el riesgo.  
 (Holloway, 2022)
@@ -428,12 +303,12 @@ Ya con un análisis inicial de los activos, se va a llevar a cabo un análisis y
 (digna, 2023)  
 (Anon., 2025)
 
-## **8.2. Análisis de los riesgos** {#8.2.-análisis-de-los-riesgos}
+## **8.2. Análisis de los riesgos**
 
 Como ya se mencionó, el análisis de riesgos se conforma de dos estructuras: primero una valoración cualitativa con la que, por medio de un mapa de calor, permite identificar los riesgos cuando el impacto no es, directamente, monetizable, después, se lleva a cabo una valoración cuantitativa con el VME (Valor monetario esperado) que traduce los riesgos a una pérdida financiera esperada, permitiendo que ChamBank pueda comparar el coste del riesgo con el coste de mitigación del mismo permitiendo tomar decisiones financieras.  
 (Team, 2025)
 
-### **8.2.1. Análisis cualitativo** {#8.2.1.-análisis-cualitativo}
+### **8.2.1. Análisis cualitativo** 
 
 Las estimaciones y conclusiones se van a sacar en base a esta tabla:
 
@@ -448,7 +323,7 @@ Las estimaciones y conclusiones se van a sacar en base a esta tabla:
 (Team, 2025)  
 (Enrique, 2026)
 
-### **8.2.2. Análisis cuantitativo** {#8.2.2.-análisis-cuantitativo}
+### **8.2.2. Análisis cuantitativo** 
 
 Para los riesgos con un impacto económico posiblemente medible, en ChamBank se ha decidido aplicar el valor monetario esperado (VME= Probabilidad * impacto financiero estimado). Este método se elige dobre alternativas como FMEA o BIA ya que ChamBank, en esta fase inicial en la que se encuentra, necesita una métrica simple que permita a la dirección del banco comparar riesgos respecto a pérdidas esperadas y priorizar la inversión en controles. Los parámetros que se han usado son:
 
@@ -459,7 +334,7 @@ Para los riesgos con un impacto económico posiblemente medible, en ChamBank se 
 (Team, 2025)  
 (alvarez, 2024)
 
-## **8.3. Tabla de análisis** {#8.3.-tabla-de-análisis}
+## **8.3. Tabla de análisis** 
 
 | Grupo | Riesgo | Análisis cualitativo | Análisis cuantitativo | Justificación |
 | :---: | :---: | ----- | ----- | ----- |
@@ -509,7 +384,7 @@ También hay otros que son “asumibles” por el banco como:
 
 Cabe destacar que los riesgos de seguridad están vinculados con los objetivos de seguridad que ChamBank se propusieron alineados con los objetivos de la implantación del SGSI. El robo de datos y los ataques internos conforman ataques que afectan tanto a la confidencialidad y a la integridad, ya que una filtración lo incumpliría. Por otro lado, el ransomware, amenazaría a la disponibilidad, afectando a los servicios internos que ofrece el banco a los clientes. O los ataques de phishing, que, a pesar de tener como objetivo reducirlos, sigue siendo una amenaza persistente que, de hecho, puede dar lugar a otros ataques ya mencionados. La alineación mencionada permite que el plan de tratamiento de riesgos sirva como herramienta extra para cumplir los compromisos que requiere la implantación del SGSI.
 
-# **9. Tratamiento de riesgos** {#9.-tratamiento-de-riesgos}
+# **9. Tratamiento de riesgos** 
 
 Las decisiones de tratamiento de cada riesgo están vinculadas a los objetivos de seguridad de la información, es decir, los puntos mencionados en el apartado 6.2 (Explícito de los objetivos de la seguridad de la información):
 
@@ -569,11 +444,11 @@ De esta manera, en un primer lugar, todas las decisiones para tratar cada riesgo
   * Fraude🡪Mitigar  
     Implementar sistemas antifraude, reforzar la autenticación de los clientes, e implementar seguros.
 
-# **10. Plan de tratamiento de riesgos** {#10.-plan-de-tratamiento-de-riesgos}
+# **10. Plan de tratamiento de riesgos** 
 
 El plan de tratamiento de riesgos de ChamBank traduce las decisiones tomadas en el tratamiento de riesgos en acciones concretas propuestas. DORA exige que las entidades financieras documenten dicho plan, lo que en ChamBank tiene una implantación práctica en la que los controles no pueden decidirse aleatoriamente, sino que deben de estar justificados, priorizados y deben de ser revisables para las auditorías.
 
-## **10.1. Acciones propuestas** {#10.1.-acciones-propuestas}
+## **10.1. Acciones propuestas** 
 
 Anteriormente se establecieron prioridades en base al riesgo y a los gastos potenciales que suponen, ordenándose por ese mismo factor, en la sección de análisis de riesgos. Ya con una vez esos riesgos identificados, y ordenados en base a prioridad, se van a llevar a cabo diferentes acciones en el banco para abordarlos a lo largo del tiempo o de manera inmediata si son muy graves. También, se va a analizar el tipo de control que tiene cada acción propuesta. Las propuestas se pueden clasificar en controles:  
 
@@ -629,7 +504,7 @@ La decisión de los tratamientos de riesgos se ha tomado en cuenta en base al co
 * Caídas del servicio cloud: Transferir/mitigar  
   Transferir el riesgo completamente no es viable ya que, aunque el proveedor pueda compensar económicamente el incidente, ante los clientes, el responsable de la caída del servicio sería ChamBank.
 
-## **10.2. Impacto de los controles del SGSI** {#10.2.-impacto-de-los-controles-del-sgsi}
+## **10.2. Impacto de los controles del SGSI** 
 
 Los controles propuestos no actúan de manera aislada, su implementación tiene un efecto de acumulación respecto a la madurez y la resiliencia del SGSI en tres aspectos:
 
@@ -640,9 +515,9 @@ Los controles propuestos no actúan de manera aislada, su implementación tiene 
 * **Apoyo a la mejora continua**  
   La aplicación de controles como la monitorización continua, logs de auditorías, las pruebas de penetración, etc., sirven para obtener resultados objetivos que el comité deberá revisar periódicamente. Una vez revisados dichos resultados, el comité puede optar por cambios y mejoras para estar preparados ante nuevas amenazas, o nuevas condiciones reglamentarias.
 
-# **11. Implantación del SGSI** {#11.-implantación-del-sgsi}
+# **11. Implantación del SGSI** 
 
-## **11.1. Recursos necesarios** {#11.1.-recursos-necesarios}
+## **11.1. Recursos necesarios** 
 
 Para implementar correctamente el SGSI en ChamBank, hay que disponer de los recursos adecuados que permitan establecer, mantener y poder mejorar dicho SGSI. Acorde a la ISO27001, estos recursos deben de ser garantizados por el banco. A pesar de que la ISO27001 no define explícitamente los recursos necesarios (ya que los decide cada empresa), normalmente se pueden clasificar en:
 
@@ -662,7 +537,7 @@ Para implementar correctamente el SGSI en ChamBank, hay que disponer de los recu
 (27001, 2025)  
 Debido a que los recursos se deciden en el momento específico, por ejemplo, más servidores para soportar más clientes y/o datos de los mismos (Lo cual tendría la contra de que conllevaría más superficie de ataque), se han mencionado de manera general en lugar de especificaciones precisas. De esa manera, se pueden clasificar los recursos necesarios para implantar el SGSI sin entrar en especificaciones.	
 
-## **11.2. Formaciones y competencias** {#11.2.-formaciones-y-competencias}
+## **11.2. Formaciones y competencias** 
 
 Para implantar el SGSI correctamente, se necesita formar y preparar a los empleados y hay que asegurarse de que sean ciertamente competentes en sus respectivas áreas. Esta formación es lo que asegura el correcto funcionamiento y mantenimiento del SGSI. Algunas de las formaciones y competencias requeridas son:
 
@@ -676,7 +551,7 @@ Para implantar el SGSI correctamente, se necesita formar y preparar a los emplea
 (holloway, 2025)  
 Aun así, la formación que se requiere o que se lleva a cabo una vez introducido el miembro ni garantiza que las buenas prácticas o comportamientos se mantengan. Por eso se deben llevar a cabo simulacros cada 3 meses, más o menos, para comprobar el estado de la concienciación en todas las áreas del banco.
 
-## **11.3. Concienciación** {#11.3.-concienciación}
+## **11.3. Concienciación** 
 
 Para concienciar a los empreados del banco respecto al correcto funcionamiento del SGSI, se deben de establecer medidas como: 
 
@@ -706,7 +581,7 @@ La seguridad se debe aplicar de manera diaria de tal manera que se pueda estar a
 La concienciación de los empleados pasa a ser un nuevo activo del banco, ya que si “falla” en algún aspecto, dará lugar a nuevas brechas de seguridad en diferentes áreas.  
 (Edwards, 2025)
 
-## **11.4. Emergencias** {#11.4.-emergencias}
+## **11.4. Emergencias** 
 
 Ante situaciones de emergencia por ataques u otros eventos ajenos al banco, se deben de tener planes de reacción y recuperación ante dichos incidentes de emergencia. DORA exige que las entidades financieras tengan “preparados” dichos planes de continuidad del negocio y de recuperación ante incidentes. El protocolo de actuación suele tener los siguientes pasos:
 
@@ -727,12 +602,12 @@ Ante situaciones de emergencia por ataques u otros eventos ajenos al banco, se d
 (Europeo/Consejo, 2026)  
 Para emergencias no maliciosas, principalmente formadas por eventos ajenos a la/las compañías, como son apagones, u otros eventos similares, se debe disponer de planes de continuidad operativa (resiliencia). 
 
-# **12. Operación del SGSI** {#12.-operación-del-sgsi}
+# **12. Operación del SGSI** 
 
 De acuerdo con la ISO27001, el banco debe planificar, aplicar, controlar, evaluar y mantener los procesos que sean necesarios para el correcto mantenimiento del SGSI. La operación del SGSI consiste en aplicar los controles y tratamientos definidos y su integración en el trabajo diario.  
 (Solutions, 2025)
 
-## **12.1. Aplicar tratamientos de riesgos** {#12.1.-aplicar-tratamientos-de-riesgos}
+## **12.1. Aplicar tratamientos de riesgos** 
 
 Para tratar los riesgos se deben aplicar al SGSI los controles mencionados anteriormente, las acciones propuestas para mitigar varios de los riesgos. Para riesgos que se clasifiquen como prioritarios, como ransomware o robo de datos, la aplicación de las medidas debe de ser inmediata.
 
@@ -763,7 +638,7 @@ Lo más recomendable es empezar con los controles más relevantes, aquellos que 
 4. **Controles a largo plazo**  
 * EDR y SIEM: Son los controles más complejos de desplegar en un primer lugar. Requiere establecer reglas claras de SIEM, instalar agentes adecuados en todos los endpoints, formación constante de los equipos responsables, etc. Una mala implementación puede generar un exceso de alertas falsas fatigando a los responsables en ese sector.
 
-## **12.2. Integrar SGSI en el día a día** {#12.2.-integrar-sgsi-en-el-día-a-día}
+## **12.2. Integrar SGSI en el día a día** 
 
 Para implementar un SGSI correctamente es necesario integrarlo en la “ideología” del banco más que como un proyecto de mejora individual. Como ya se ha mencionado otras veces, se debe de convertir en parte del sistema que se usa en el día a día en el banco. Para que la seguridad del SGSI se integre correctamente en el día a día, se usarán mecanismos como:
 
@@ -777,11 +652,11 @@ Para implementar un SGSI correctamente es necesario integrarlo en la “ideolog�
 (27001, 2025)  
 La integración del SGSI en el día a día requiere adaptar a los nuevos empleados, debiendo recibir formación al menos básica de seguridad y de funcionamiento de procesos internos. Y, hay que tener en cuenta si un empleado deja el banco, ya sea por una oferta mejor o la razón que sea. Consiste en un proceso legal e interno que incluye: confidencialidad externa (A pesar de que ya se hace con empleados, se debe hacer con los que se van), retirar sus credenciales de acceso, etc. Estos procesos de “despido” son críticos para el SGSI.
 
-# **13. Evaluación del desempeño** {#13.-evaluación-del-desempeño}
+# **13. Evaluación del desempeño** 
 
 En ChamBank, la evaluación de desempeño se clasifica en 3 niveles:
 
-## **13.1. Monitorización** {#13.1.-monitorización}
+## **13.1. Monitorización**
 
 La monitorización continua se implementa por medio de indicadores de desempeño y de riesgo. Se analizarán datos “voluminosos”, es decir, que solo se monitorizarán y analizarán aquellos riesgos de los cuales existen datos significativos y fiables. También hay que tener en cuenta que los objetivos se harán en base a los riesgos mas graves, por lo que los asumibles no se incluirán.
 
@@ -800,7 +675,7 @@ La monitorización continua se implementa por medio de indicadores de desempeño
 (López, 2025)  
 (TOOLS, 2026)
 
-## **13.2. Auditorías internas** {#13.2.-auditorías-internas}
+## **13.2. Auditorías internas** 
 
 El objetivo de las auditorías internas, en este caso, es comprobar si el SGSI implementado cumple con los requisitos de la norma con la que se ha aplicado, la ISO27001. Se comprueba que los requisitos y procesos integrados en la organización por el SGSI se han integrado correctamente. En ChamBank, las auditorías internas se llevarán a cabo 2 veces al año (Como mínimo en caso de que no sucedan incidentes graves). El alcance consiste en todo el SGSI implementado acorde a la ISO. El proceso de auditoría normalmente consiste en una serie de pasos predefinidos:
 
@@ -819,15 +694,15 @@ El objetivo de las auditorías internas, en este caso, es comprobar si el SGSI i
 (Solutions, 2025)  
 Las auditorías no son independientes del diseño del SGSI, sino que son su mecanismo de validación. La ISO 27001 define qué se debe de auditar (al menos las cláusulas de la 4 a la 10), mientras que la ISO 27002 determina si los controles seleccionados en el SoA son adecuados para los riesgos identificados. Sin la relación entre la 27001 y la 27002, los auditores solo podrían revisar la documentación sin revisar si el diseño es apropiado para ChamBank. Esto significa que cada hallazgo de auditoría se traduce en una revisión del SoA, cerrando así el proceso de plan-do-check. En ChamBank, un auditor que revisara el SGSI diseñado podría encontrar, en la documentación: el compromiso de la dirección (documentado en la sección de liderazgo) , el alcance definido (en la sección de alcance), el análisis de riesgos , y controles aplicados con justificación. La ISO 27002 respalda los controles: cifrados AES-256 y TLS 1.3 a los requerimientos criptográficos, MFA a los controles de acceso, backups 3-2-1 a la disponibilidad continua. Sin la alineación entre los controles de lo que la ISO 27001 exige y lo que la 27002 especifica, los controles no serían medidas auditables, sino que podrían ser medidas “subjetivas” de los equipos de seguridad.
 
-## **13.3. Revisión** {#13.3.-revisión}
+## **13.3. Revisión** 
 
 La dirección de ChamBank (CISO, CEO, CTO, CDO, etc), debe de revisar y evaluar el SGSI tras la obtención del informe. Las revisiones o auditorías se llevarán a cabo de manera trimestral o tras incidentes graves de seguridad. Dichas revisiones incluyen: los resultados de las auditorías, los indicadores (KPI) del trimestre, el estado del plan de tratamiento de riesgos, incidentes que hayan tenido lugar, cambios internos o externos, y las sugerencias de mejora de la auditoría. Tras la revisión, se deben documentar los resultados de la misma, y, posteriormente, tomar decisiones en base a dichos resultados del análisis.
 
-# **14. Debilidades** {#14.-debilidades}
+# **14. Debilidades** 
 
 Para poder mejorar el SGSI, es necesario identificar vulnerabilidades, formado parte así del proceso de mejora continua.
 
-## **14.1. Resultados** {#14.1.-resultados}
+## **14.1. Resultados** 
 
 Tras la implantación del SGSI, el banco puede detectar fallas/debilidades potenciales en el propio sistema, las cuales se deben de abordar en la primera auditoría. Estas fallas normalmente pueden ser identificadas como las propias limitaciones del análisis.
 
@@ -839,7 +714,7 @@ Tras la implantación del SGSI, el banco puede detectar fallas/debilidades poten
 |  **Ausencia inicial de métricas pasadas** | Al ser la primera implantación del SGSI, y como un requerimiento del mismo, se van a guardar registros y métricas de eventos. Pero antes de su implantación, no se guardaban, por lo que sería un inicio de cero. Por esa razón, habrá que esperar unos meses para empezar a recolectar métricas, dificultando la interpretación de KPIs durante ese tiempo. Esto claramente hará que durante los primeros periodos de tiempo tras la implantación del SGSI, será imposible revisar si de verdad está contribuyendo a la mejora del banco, afectando a la toma de decisiones estratégicas a corto plazo. Aun así, se pueden usar estándares de otras entidades bancarias, con un SGSI implantado, para tener una base inicial e intentar estar a la par para que, después de un tiempo de recolección de métricas ChamBank pueda mejorar por sí mismo con sus propias métricas. |
 |  **Riesgo residual alto** | Es casi imposible cubrir todas las vulnerabilidades de los sistemas, principalmente si son zero-day. Este riesgo es el más difícil de cubrir y el que tiene mayor impacto potencial. ChamBank lo asume y se debe gestionar con la monitorización continua y planes de respuesta ante incidentes o desastres, pero hay que tener en cuenta que es casi imposible eliminar dicho riesgo. Por ejemplo, podría existir una vulnerabilidad no localizada en el cifrado de las APIs, o que sea conocida pero que no se haya solucionado. En este caso, una solución sería la de segmentar la red para limitar el alcance, pero no evitar el ataque. Esto demostraría que los controles del SGSI no eliminan el riesgo residual, sino que lo limitan reduciendo su impacto potencial sin eliminarlo. |
 
-## **14.2. Evaluación de cultura de seguridad** {#14.2.-evaluación-de-cultura-de-seguridad}
+## **14.2. Evaluación de cultura de seguridad**
 
 Siendo la cultura de la seguridad las actitudes y comportamientos en una organización, siendo en este caso ChamBank, es la forma en la que se interpretan las acciones de seguridad en un entorno. La cultura de la seguridad es necesaria para reducir los riesgos que vayan apareciendo en la medida de lo posible en las tareas del día a día, también sirve para concienciar y garantizar el cumplimiento de normativas. Un banco con una buena cultura de seguridad tiende a notificar incidentes, a seguir las políticas establecidas, y a ver la seguridad como algo general en todo el banco.  
 (Odebrecht, 2024)  
@@ -858,13 +733,13 @@ La cultura de la seguridad en Chambank se puede evaluar por medio de diferentes 
 (ICSI, 2019)  
 (OSH, 2026)
 
-# **15. Plan de mejora** {#15.-plan-de-mejora}
+# **15. Plan de mejora** 
 
 El plan de mejora, y la mejora continua, en ChamBank es una necesidad operativa. Al comenzar el SGSI sin historial previo ni métricas ni incidentes documentados, las primeras aplicaciones del ciclo PCDA son críticas: permiten calibrar si los controles implantados responden a las necesidades de Chambank o si solo se basan en estimaciones teóricas basadas en generalismos del sector.  
 (Edwards, 2022)  
 (Reyes, 2024)
 
-## **15.1. No conformidades** {#15.1.-no-conformidades}
+## **15.1. No conformidades** 
 
 Una no conformidad es un incumplimiento de un requisito del SGSI, normalmente obligatorio. Las no conformidades se pueden detectar con auditorías internas, análisis tras incidentes, revisiones mandadas por la dirección, etc. Al momento de que se detecte una no conformidad, ChamBank debe seguir una serie de pasos para “cubrirla”:
 
@@ -884,7 +759,7 @@ Una no conformidad es un incumplimiento de un requisito del SGSI, normalmente ob
 (Peters, 2022)  
 La detección de las no conformidades no significa fracaso en la implementación del sistema, sino que se está llevando a cabo correctamente el proceso de mejora continua que especifica la ISO 27001, más aún si se llevan a cabo las respectivas acciones correctivas a las no conformidades detectadas.
 
-## **15.2. Correcciones** {#15.2.-correcciones}
+## **15.2. Correcciones**
 
 Ante ciertas no conformidades detectadas previamente se van a implementar medidas para solucionar las causas raíz de dichos sucesos. Hay que tener en cuenta que las no conformidades tienden a tener soluciones más persistentes en el tiempo, lo analizado previamente eran acciones inmediatas que se llevaban a cabo para solucionar riesgos. Los puntos sobre los que implementar acciones correctivas son:
 
@@ -899,7 +774,7 @@ Ante ciertas no conformidades detectadas previamente se van a implementar medida
 
 (Laprovittera, 2025)
 
-## **15.3. Mejora continua** {#15.3.-mejora-continua}
+## **15.3. Mejora continua**
 
 La mejora continua es lo que da sentido a todo el SGSI. El objetivo de la mejora continua en ChamBank es el de evolucionar de manera activa junto con el sistema. Aunque hay que tener en cuenta que las mejoras continuas no siempre tienen la misma “urgencia” o importancia. Se puede establecer un orden que consista en:  
 1. Lecciones aprendidas de incidentes ya que indican fallos que ya han ocurrido.  
@@ -932,7 +807,7 @@ Aunque se aplique la mejora continua, siempre hay sitio para los errores o escen
 * **Existencia de playbooks sin experiencia**  
   Ante nuevos incidentes que no se hayan documentado, al menos no que sean iguales, los equipos de respuesta deben improvisar o seguir, parcialmente, el procedimiento de otros incidentes. Aunque después se optimizarían procesos. Una solución activa ante este problema son las pruebas de penetración o los simulacros ya que permiten tener playbooks preparados con técnicas de ataque y defensa que se usan en el momento.
 
-# **16. Análisis crítico** {#16.-análisis-crítico}
+# **16. Análisis crítico** 
 
 ## **16.1. Propósito de la ISO 27001 y 27002** {#16.1.-propósito-de-la-iso-27001-y-27002}
 
