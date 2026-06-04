@@ -809,12 +809,12 @@ Aunque se aplique la mejora continua, siempre hay sitio para los errores o escen
 
 # **16. Análisis crítico** 
 
-## **16.1. Propósito de la ISO 27001 y 27002** {#16.1.-propósito-de-la-iso-27001-y-27002}
+## **16.1. Propósito de la ISO 27001 y 27002** 
 
 ChamBank opera como una entidad financiera digital, usando APIs abiertas, aportando banca móvil y con un alcance internacional, lo cual significa que posee una superficie de ataque mayor que otras entidades bancarias. La ISO 27001 es la única norma que ofrece un marco certificable para gestionar esa superficie. Sin ella, ChamBank no tendría ningún criterio para priorizar controles frente a los riesgos identificados anteriormente (los cuales se han identificado por especulación/ejemplos de otros bancos ya que ChamBank carece de historial previo). La ISO 27002 sirve como complemento a la 27001 especificando como aplicar los controles en un entorno bancario. Sin su guía, implantaciones como el cifrado o los controles de acceso quedarían bajo el criterio subjetivo del equipo responsable, generando, posiblemente, inconsistencias notables en las auditorías.  
 La ISO 27001, en el contexto de ChamBank, ha sido, como ya se ha mencionado, la base de la aplicación del SGSI, diseñando, definiendo el contexto, los roles, la gestión de riesgos tras su identificación y la mejora continua. Mientras que la ISO 27002, como extra, ha servido como una referencia para la implementación de controles en el SoA que se debe de llevar a cabo en ChamBank como entidad financiera.
 
-## **16.2. Relación entre SGSI implantado y estándares** {#16.2.-relación-entre-sgsi-implantado-y-estándares}
+## **16.2. Relación entre SGSI implantado y estándares** 
 
 El SGSI de ChamBank sigue diversas cláusulas de la ISO27001 las cuales son obligatorias legalmente hablando y no son negociables. Como prueba, se ve que en la implantación del SGSI se han cubierto diversos puntos como: la definición de roles, el alcance, roles, identificación y análisis de riesgos, formación interna, auditorías, etc.  
 Por otro lado, respecto a la ISO 27002, se puede ver cómo se aplican controles organizativos (como la gestión de incidentes), controles en los empleados (la formación y concienciación), y controles tecnológicos (cifrados, SIEM, tokens, etc.).  
@@ -824,7 +824,7 @@ Comparando el diseño del SGSI con los requisitos de ChamBank, se ve como el sis
 Sin embargo, existen límites reales. El SGSI diseñado asume que ChamBank controla su cadena de terceros, pero en la práctica, los proveedores de dichos servicios (como cloud (Azure, Aws, etc)) tienen sus propios marcos de seguridad que ChamBank no puede auditar. La ISO 27001 exige la gestión de los proveedores, pero no garantiza que dichos proveedores cumplan o siquiera sigan dichos estándares, siendo este uno de los mayores puntos de fricción del SGSI y su aplicación.  
 El contraste que existe entre lo que exigen las normas y el SGSI de ChamBank puede mostrar grietas concretas: ChamBank, en el análisis de riesgos, se ve obligado a usar estimaciones o tomar como referencia a otros bancos a pesar de que la ISO 27001 exige llevarlos a cabo en base a datos reales propios, haciendo al plan de tratamiento de riesgos “provisional”; por otro lado, la ISO 27002 exige que los controles seleccionados sean proporcionales al riesgo, pero sin datos reales, dicha proporcionalidad acaba siendo teórica; adicionalmente, DORA exige la gestión de terceros, pero ChamBank no puede auditarlos completamente. Las “grietas” en el diseño mencionadas, no lo invalidan, pero pueden llegar a condicionar su madurez inicial y obligan a revisar el SoA.
 
-## **16.3. Ventajas de certificarse** {#16.3.-ventajas-de-certificarse}
+## **16.3. Ventajas de certificarse** 
 
 Aparte del cumplimiento normativo que hace la implantación de normativas obligatorias en el sector financiero, la certificación en la ISO 27001 en ChamBank contaría con varios beneficios de diversos tipos:
 
@@ -840,7 +840,7 @@ Aparte del cumplimiento normativo que hace la implantación de normativas obliga
 (BMC, 2025)  
 Aun así, hay que plantearse si la certificación es algo prioritario en la fase inicial de ChamBank, estimando en torno a unos 400000€ de implantación inicial estimada (como mínimo), siendo un banco nuevo sin apenas historial propio, la certificación formal puede tener más sentido a partir de los 12 meses, cuando el SGSI ya tenga datos reales propios de ChamBank y el entorno en general haya madurado operativamente. El certificarse demasiado pronto, con análisis basados en estimaciones teóricas o en datos generales de otros bancos implica el riesgo de no obtener la certificación o de obtenerla, pero que no refleje la realidad del banco, es decir, un SGSI de la ISO 27001, pero solo en papel.
 
-## **16.4. Limitaciones y riegos de enfoque muy normativo** {#16.4.-limitaciones-y-riegos-de-enfoque-muy-normativo}
+## **16.4. Limitaciones y riegos de enfoque muy normativo** 
 
 Aun así, certificarse y aplicar los estándares de las normas ISO 27001, 27002, DORA y RGPD puede llegar a aplicar a ChamBank cierta “rigidez operacional” si no se aplican correctamente o si se aplican excesivamente bien desde el punto de vista normativo. Dicha rigidez mencionada consiste en los riesgos que conlleva la implementación de los reglamentos de manera “excesiva” o rígida:
 
@@ -857,13 +857,13 @@ Aun así, certificarse y aplicar los estándares de las normas ISO 27001, 27002,
 
 (Mexico, 2021)
 
-## **16.5. Evaluación crítica del sistema** {#16.5.-evaluación-crítica-del-sistema}
+## **16.5. Evaluación crítica del sistema** 
 
-### **16.5.1. Viabilidad organizativa** {#16.5.1.-viabilidad-organizativa}
+### **16.5.1. Viabilidad organizativa** 
 
 El SGSI es, técnicamente, asequible para un banco como ChamBank, ya que cuenta con roles definidos con una estructura de gobernanza clara. Aun así, la viabilidad organizativa del banco no solo depende de la estructura planteada/implementada, sino de la propia cultura del banco. Objetivamente, el riesgo más probable no es operacional, ni de sistemas, sino humano, que los equipos no relacionados con la seguridad (recursos humanos, atención al cliente, etc.) perciban el SGSI como una carga extra impuesta por la dirección (Es algo “normal” cuando se implanta un SGSI ya que, en todas las empresas, los diferentes sectores internos tienen mentalidades diferentes que no siempre se alinean con la seguridad). Dicha percepción del SGSI se puede notar, pasivamente, con formularios sin criterio, formaciones superadas, pero sin implantación, o incluso incidentes de seguridad no reportados para evitar los procedimientos. En ChamBank, donde el CISO depende del apoyo de la dirección para poder aplicar controles, un CEO poco comprometido con el SGSI puede convertirlo en un sistema que solo existe en papel, pero que no está aplicado. Por lo que la viabilidad siempre es posible, pero está condicionada por un compromiso activo y continuado por parte de la dirección y no solo su firma en las políticas de la seguridad.
 
-### **16.5.2. Costes estimados** {#16.5.2.-costes-estimados}
+### **16.5.2. Costes estimados** 
 
 Los costes estimados normalmente dependen del propio alcance de la entidad financiera y las características que posee. ChamBank, al contar con varias funciones y alcance internacional, se pueda considerar, como mínimo, una entidad mediana pudiendo llegar a ser grande si se expandiera. Dadas las características de ChamBank, y su estimación de capacidades dándole un “puesto” medio-alto, y teniendo en cuenta que la distribución del coste se debe de “distribuir” en diferentes secciones y se van a hacer aproximaciones estimadas:
 
@@ -891,13 +891,13 @@ En total el coste de mantenimiento, anual estimado, es de 137000€ aproximados 
 A pesar de que la inversión es considerable para un banco inicial (432000€ de implantación y 137000€ de mantenimiento anual esperado, haciendo que el primer año ronden los 569000€), pero el coste de no implantarlo es mayor. El coste medio de una sanción por violaciones de datos en el sector financiero europeo superó los 3,86 millones de euros junto con daño reputacional. Desde ese punto de vista, el gasto en la implantación y mantenimiento del SGSI no es un gasto en vano y es muy útil, ya que es una inversión en reducciones de riesgos, cumplimiento normativo, reputación, etc.  
 (Wagenbach, 2026)
 
-### **16.5.3. Nivel de madurez** {#16.5.3.-nivel-de-madurez}
+### **16.5.3. Nivel de madurez** 
 
 A la hora de implantar el SGSI, ChamBank inicia con un nivel de madurez básico, es decir, antes del SGSI ChamBank tenía lo mínimo necesario y no estaba preparado para ninguna prueba y era objetivo fácil para ataques o fallas al analizar los mismos, por ejemplo, la falta de logs/eventos iniciales que se mencionó (y que se empiezan a guardar una vez implantado el SGSI). Al principio, ChamBank no tenía tampoco controles de seguridad aplicados (ni documentados).  
 Tras los primeros 6 meses tras la implantación del SGSI, con los controles aplicados correctamente (MFA, backups, antiphishing, cifrados, etc.), es prevé alcanzar un nivel intermedio en la “escala de madurez” en ese margen de los primeros 6 meses. Con la mejora constante y el mantenimiento correcto que se esperan llevar a cabo de manera continua, se implementarán nuevos cambios en base a fatores como nuevos ataques, nuevas normas, nuevos controles, etc. Idealmente, se espera llegar a una madurez alta/elevada a los 3 años de implantar el SGSI en el banco con todas sus medidas y actualizaciones de seguridad a las que debería haberse ido sometiendo.   
 El periodo más crítico es, claramente, el de los primeros 6 meses. En ese margen de tiempo ChamBank habrá implantado controles, pero sin datos históricos reales ni experiencia previa (al menos documentada). En este periodo es, específicamente, cuando la probabilidad de incidente de seguridad es más alta y la capacidad de respuesta más limitada. Un ataque exitoso durante este periodo, sin un SIEM operativo, podría no detectarse a tiempo, siendo un riesgo organizativo que el SGSI no puede eliminar incluso implantado, solo reducir su impacto.
 
-### **16.5.4. Riesgo residual** {#16.5.4.-riesgo-residual}
+### **16.5.4. Riesgo residual** 
 
 Hay que tener en cuenta, como ya se mencionó respecto a las vulnerabilidades, que existen debilidades incluso en un SGSI ya implantado, y se puede llegar a razonar que ningún SGSI o sistema en general puede eliminar el riesgo residual completamente. Los riesgos residuales de ChamBank son, básicamente:
 
@@ -907,7 +907,7 @@ Hay que tener en cuenta, como ya se mencionó respecto a las vulnerabilidades, q
 
 Los riesgos no se pueden eliminar, lo único que se puede hacer con ellos es asumirlos y reducir su impacto potencial como parte de la mejora continua del SGSI. Eso se puede gestionar con el uso de SIEM, tener playbooks y planes de respuesta ante incidentes, llevar a cabo pruebas de penetración para hallar nuevas vulnerabilidades y entrenar a los equipos de respuesta y revisar los riesgos cada trimestre. 
 
-### **16.5.5. Sostenibilidad a largo plazo** {#16.5.5.-sostenibilidad-a-largo-plazo}
+### **16.5.5. Sostenibilidad a largo plazo** 
 
 La sostenibilidad del SGSI a largo plazo en ChamBank se puede enfrentar a varias amenazas las cuales es conveniente considerar para la sostenibilidad a futuro del SGSI: la falta de presupuesto (con un coste anual estimado de 137000€, una reducción de dicho presupuesto puede llevar a quedarse sin financiación para auditorías, monitorización o, simplemente, mejora continua), la falta o pérdida de roles (siendo el CISO un perfil requerido para la implantación junto con los técnicos de seguridad perfiles escasos, su pérdida puede dejar al SGSI sin capacidad operativa durante periodos de tiempo largos) o la fatiga normativa (gestionar la ISO 27001, DORA, y RGPD implica auditorías programadas, actualizaciones y formación constante lo que, con el paso del tiempo, puede hacerse más pesado sintiéndose como un fin en lugar de una herramienta).
 
@@ -920,7 +920,7 @@ La sostenibilidad del SGSI a largo plazo en ChamBank se puede enfrentar a varias
 
 En caso de que las medidas de mitigación se implanten y mantengan a largo plazo, se puede asegurar con casi total certeza que el SGSI se mantendrá activo y funcional por mucho tiempo, ya que estas medidas le permiten a ChamBank mejorar el SGSI el cual mejora las condiciones de seguridad y cumplimiento legal junto con el hecho de que puede, a futuro, apoyar la madurez y reducir, parcialmente el riesgo potencial (Englobando en este aspecto al impacto del mismo).
 
-## **16.6. Análisis crítico de principios clave del SGSI** {#16.6.-análisis-crítico-de-principios-clave-del-sgsi}
+## **16.6. Análisis crítico de principios clave del SGSI** 
 
 Diseñar e implantar un SGSI en base a la ISO 27001 puede llegar a ser complejo, pero el hecho de mantenerlo se puede considerar incluso más complicado. Se han ido tomando decisiones en base a las normas ISO 27001 y 27002, DORA, y RGPD, pero se debe de llevar a cabo un análisis crítico intentando mantenerse todo lo neutral posible respecto al mismo para poder llegar a encontrar las incomodidades del banco respecto al sistema, y lo que se puede garantizar de manera práctica. Para evaluar si ChamBank cumple con los principios clave de la ISO 27001, es necesario contrastar con las cláusulas obligatorias de dicha ISO:
 
@@ -955,7 +955,7 @@ A continuación, se van a comprobar algunas de las cláusulas respecto a un aná
 (secureframe, 2024)  
 En resumen, el mayor riesgo para la sostenibilidad del SGSI de ChamBank principalmente es organizativo, que el sistema se active solo para auditorías, quedando inactivo el resto del tiempo. Eso ocurre cuando el SGSI se siente como un ejercicio impuesto más que como una herramienta de gestión interna, y está documentado en entidades financieras que obtuvieron la certificación de la ISO 27001 pero que han sufrido incidentes relevantes. Para ChamBank la mitigación más efectiva consiste en: hacer los KPIs formen parte de los resultados de cada trimestre independientemente de la existencia de una auditoría programada, y establecer un método de comunicación de incidentes sin consecuencias para quien reporta dicho incidente, eliminando así la tendencia de ocultar fallos. Sin ese par de medidas, el riesgo resultaría en un SGSI certificado, pero sin impacto real. Mantener el SGSI activo requiere de haber tomado decisiones previas en planes ante fallos que el sistema no puede eliminar. Si el CISO abandona ChamBank, el SGSI perdería a su principal responsable, por lo que se tiene que tener un plan de acción inmediato que, por ejemplo, asigne desde un principio a un segundo responsable del SGSI que tome el rol al menos temporalmente. O en caso de que el presupuesto en seguridad se recorte por algún motivo, se deben de priorizar controles más importantes para que se mantengan el mayor tiempo posible, como el MFA o los filtros anti-phishing por su bajo coste y alto alcance, mientras que las auditorías externas deberán de ser las primeras en reducirse, en caso de reducción presupuestaria, sin comprometer a la operativa diaria. Sin esas decisiones tomadas con antelación en planes, el SGSI dependería de la improvisación en momentos críticos.  
 
-# **17. Mapa de implementación del SGSI** {#17.-mapa-de-implementación-del-sgsi}
+# **17. Mapa de implementación del SGSI** 
 
 La implementación del SGSI en ChamBank se puede estimar en un año, dividiendo dicho periodo de tiempo en diferentes fases las cuales sirven para priorizar controles o medidas de seguridad en base a su impacto potencial (positivo) en el banco, incluyendo, evidentemente, una fase final que engloba todo el tiempo posterior a la implementación, es decir, el plan de mejora continua.
 
@@ -971,36 +971,15 @@ Hay que tener en cuenta que en las fases del mapa de implementación del SGSI se
 (27001, 2025)  
 En el mapa de implementación planeado no se han asignado los controles que se planean implementar el primer año de manera aleatoria, sino que se ha pensado en los costes, el tiempo de implantación y el impacto potencial positivo que puede llegar a tener. Por ese motivo, se han implementado, por ejemplo, el MFA y los filtros antes, ya que tienen un impacto potencial considerable y son cuestan poco, por ese mismo motivo, la siguiente fase consiste en los backups y tokens cifrados, ya que llevan tiempo y desarrollo implementarlos, y así, el SIEM y el EDR van “últimos” ya que su implantación incorrecta puede llevar a diversos problemas. Después ya vienen planes a implementar a futuro y cuando las medidas “principales” ya se hayan implantado durante el primer año, como la mejora continua o las auditorias.
 
-# **18. Conclusiones** {#18.-conclusiones}
+# **18. Conclusiones** 
 
 El SGSI diseñado para ChamBank permite integrarlo óptimamente en el mismo. A lo largo del planteamiento y diseño de dicho SGSI, se vio la complejidad real que significaba implantarlo. No era simplemente seguir unas pocas normas y ya, sino que era más que eso. Consistió en integrar una cultura en la seguridad en el banco de todos los empleados del mismo, una mentalidad proactiva ante problemas o incidentes, una aceptación de problemas que no se pueden resolver, pero si disminuir, también consistió en la investigación de normativas y la planificación de evolución junto con las mismas como parte de un proceso de manera continua el cual acompaña al SGSI.  
 Uno de los retos más relevantes del sector bancario consiste en la defensa ante las nuevas amenazas de los atacantes, es decir, las nuevas vulnerabilidades o los nuevos métodos de ataque ya que, objetivamente, los atacantes tienden a atacar a las entidades bancarias debido a su gran cantidad de datos relevantes de los clientes. Otro de los retos a los que las entidades financieras se enfrentan consiste en el hecho de que los bancos como ChamBank tienen una mayor carga regulatoria que otros sectores, con marcos como los que se mencionan: DORA, RGPD o ISO27001 e ISO 27002. Este hecho hace que el SGSI no se un documento estático, sino un sistema que evolucione ante nuevas amenazas, cambios regulatorios, novedades, nuevas tecnologías, etc.  
 Desde un punto de vista estratégico, la implantación del SGSI a ChamBank le aporta un valor extra aparte de la seguridad. La certificación de la ISO 27001, el cumplimiento aplicado de DORA y RGPD no son solo reglamentos obligatorios, o certificaciones, es un indicador de madurez como entidad financiera, haciéndola confiable y preparada.  
 Cabe destacar que el mayor riesgo sigue siendo organizativo, el hecho de que el SGSI se convierta en un ejercicio en lugar de una de una herramienta que va cambiando frente a eventos o decisiones. La diferencia entre un ejercicio y un sistema cambiante recae en el compromiso de la dirección del banco, la cual decidió implementar el SGSI en un primer lugar y en la integración de la seguridad como parte del propio funcionamiento del banco, no como una sección aparte.
+ 
 
-Propts usados:
-
-* Como definirías el activo de la infraestructura cloud en el entorno financiero  
-* En un análisis de riesgos cuantitativo, a las medidas de impacto financiero, cuánto dinero les asignarías, o estimarías, a cada tipo de impacto (Insignificante, bajo, moderado considerable y fatal) y por qué  
-* Que clase de recursos se necesitan para implementar un SGSI correctamente  
-* Medidas de mitigación del riesgo de phishing  
-* En qué consiste una revisión tras la auditoría del sgsi más que intentar arreglar los problemas encontrados por el auditor  
-* Dame ideas de debilidades tras implantar un SGSI(ISO27001) en un banco  
-* Como cubrir el riesgo de vulnerabilidades zero-day en sistemas  
-* Cuánto cuesta el mantenimiento de un backup con metodología 3-2-1 anualmente en un entorno financiero  
-* Como explicarías que el TLS1.3 es mejor que el TLS1.2, aparte de ser la actualización y mejora del 2  
-* En la mejora continua hay un orden de prioridad de las mejoras que se vayan a hacer?  
-* cuales son las partes interesadas de implantar un sgsi  
-* Cuanto cuesta la certificación de la ISO 27001 en una entidad bancaria? Una aproximación  
-* Cada cuanto se actualizan la iso27001?  
-* costes de implantación y mantenimiento de un sgsi sector financiero  
-* Dime si hay un clausula o un anexo, algo, en la iso 27001 que tenga que ver con el alcance establecido en un SGSI  
-* Dame ejemplos de mapas de implementación de SGSIs. Busca en internet para encontrar los pasos concretos para hacer un mapa  
-* En base a que conceptos o argumentos ordinarias en un año el orden de implantación de los controles de un sgsi de un banco?
-
-# 
-
-# **Bibliografía** {#bibliografía}
+# **Bibliografía** 
 
 27001, I., 2022. *Liderazgo en ISO 27001.* [En línea]   
 Available at: https://www.normaiso27001.es/liderazgo-en-iso-27001/  
