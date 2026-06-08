@@ -631,12 +631,12 @@ Lo más recomendable es empezar con los controles más relevantes, aquellos que 
    * MFA: Es un control inmediato debido a que una gran parte de los accesos no autorizados vienen de credenciales de acceso débiles. También se tiene en cuenta que su coste de implementación es bajo, por lo que no hay que tardar en implementarlo.  
    * Filtros/sistemas anti-phishing: Su coste inicial es también bajo, y aporta un valor prácticamente inmediato al banco ya que se cubriría una buena parte de la superficie de ataque. A demás, su implantación es rápida.  
 2. **Controles a corto plazo**  
-* Backups con metodología 3-2-1: Son relativamente rápidos de implementar y cubren, parcialmente el riesgo de ransomware y su aplicación regular no debería de interrumpir las acciones del banco (Es posible que por fallos o ediciones los backups fallen y queden corruptos).  
-* Tokens temporales cifradas: Es necesario modificar las APIs, lo que implica un cierto tiempo de desarrollo e implementación correcta de cierta medida, a la vez que tiempo de testeo y modificaciones ya que el banco no puede prescindir de las APIs. El riesgo que mitigaría, si no hay fallos en un primer lugar, consistiría en que ya no se podrán robar dichos tokens de acceso.  
+   * Backups con metodología 3-2-1: Son relativamente rápidos de implementar y cubren, parcialmente el riesgo de ransomware y su aplicación regular no debería de interrumpir las acciones del banco (Es posible que por fallos o ediciones los backups fallen y queden corruptos).  
+   * Tokens temporales cifradas: Es necesario modificar las APIs, lo que implica un cierto tiempo de desarrollo e implementación correcta de cierta medida, a la vez que tiempo de testeo y modificaciones ya que el banco no puede prescindir de las APIs. El riesgo que mitigaría, si no hay fallos en un primer lugar, consistiría en que ya no se podrán robar dichos tokens de acceso.  
 3. **Controles a medio plazo**  
-* Cifrado AES-256: A pesar de ser una medida crítica para la seguridad del banco, su implementación requiere una planificación previa para no afectar a la disponibilidad u otros servicios. Un cifrado mal implementado puede causar más daño que el riesgo previsto (potencialmente).  
+   * Cifrado AES-256: A pesar de ser una medida crítica para la seguridad del banco, su implementación requiere una planificación previa para no afectar a la disponibilidad u otros servicios. Un cifrado mal implementado puede causar más daño que el riesgo previsto (potencialmente).  
 4. **Controles a largo plazo**  
-* EDR y SIEM: Son los controles más complejos de desplegar en un primer lugar. Requiere establecer reglas claras de SIEM, instalar agentes adecuados en todos los endpoints, formación constante de los equipos responsables, etc. Una mala implementación puede generar un exceso de alertas falsas fatigando a los responsables en ese sector.
+   * EDR y SIEM: Son los controles más complejos de desplegar en un primer lugar. Requiere establecer reglas claras de SIEM, instalar agentes adecuados en todos los endpoints, formación constante de los equipos responsables, etc. Una mala implementación puede generar un exceso de alertas falsas fatigando a los responsables en ese sector.
 
 ## **12.2. Integrar SGSI en el día a día** 
 
