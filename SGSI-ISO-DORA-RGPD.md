@@ -783,17 +783,17 @@ La mejora continua es lo que da sentido a todo el SGSI. El objetivo de la mejora
 4. Resultados de las auditorias que sugieren mejoras proactivas pero que no deberían, en la mayoría de casos, ser urgentes.  
 Las fuentes de mejora de ChamBank son:
 
-* **Indicadores de rendimiento**  
+   * **Indicadores de rendimiento**  
   En caso de que algún indicador ya mencionado muestre resultados negativos en un tiempo prolongado, aunque no llegue a ser una no conformidad directamente (ya sea porque se mantenga en resultados negativos pero aceptables), se analizará dicho indicador en sus aspectos y se propondrán soluciones en caso de fallo y mejoras respecto a la prevención de no conformidades en ese indicador.  
-* **Lecciones aprendidas de incidentes**  
+   * **Lecciones aprendidas de incidentes**  
   Tras resolver cada incidente (no necesariamente de seguridad), ya sean ataques o fallos humanos, en el informe se debe de analizar de manera objetiva los fallos que se han tenido a la hora de resolverlo y/o los métodos usados ya sean antiguos o nuevos. Esto se traduce en lecciones aprendidas para que, en incidentes futuros similares, se pueda actuar mejor y más rápido ante los mismos.  
-* **Estar al día en ciberseguridad**  
+   * **Estar al día en ciberseguridad**  
   El hecho de aplicar medidas de seguridad o procedimientos no es suficiente para mantener un sistema a salvo de ciberataques. Normalmente debe de haber uno o varios equipos que lleven a cabo reportes sobre actualizaciones en políticas, reglamentos o certificaciones, o sobre nuevos métodos de ataque, nuevos malware, técnicas de phishing, etc. Dicha búsqueda activa de ciberataques en otros campos ayuda a mejorar la seguridad por medio de la preparación preventiva.  
-* **Cambios regulatorios**  
+   * **Cambios regulatorios**  
   Como ya se mencionó en el anterior punto, hay que estar al día de cambios regulatorios, o nuevas certificaciones necesarias. Esto se debe, en el aspecto de nuevas regulaciones, a que se debe mantener un sistema actualizado, aparte de que se quiere evitar ciberataques internos, también es para evitar sanciones legales. Se debe mantener de manera activa un seguimiento de dichas normativas con las que se ha implantado el SGSI.  
-* **Sugerencias**  
+   * **Sugerencias**  
   También, cualquier empleado del banco de cualquier sector, puede llevar a cabo sugerencias de mejora del SGSI, ya sea de seguridad o de cualquier otro aspecto de mejora interno. Las sugerencias se enviarán al comité para que consideren dichas sugerencias y decidan aplicarlas y como aplicarlas o no aplicarlas.  
-* **Resultados de pruebas**  
+   * **Resultados de pruebas**  
   Otra manera de mejorar principalmente en el aspecto de la seguridad y/o la concienciación son las pruebas de penetración que se llevan a cabo. Se llevarán a cabo diariamente ataques “simulados” pero no identificados (para simular un escenario más realista) que intentarán acceder al sistema y que generarán un reporte de los ataques que se llevarán a cabo y puntos fuertes y débiles que tenga la defensa. En ese caso, se podrá mejorar la seguridad de la empresa.
 
 (Sharron, 2023)  
