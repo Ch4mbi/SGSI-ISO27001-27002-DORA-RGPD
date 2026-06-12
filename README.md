@@ -21,6 +21,7 @@ El objetivo es demostrar cómo se estructura un SGSI real en el sector financier
 ## Estructura 
 
 SGSI-ISO27001-27002-DORA-RGPD/
+
 ├── [SGSI-ISO-DORA-RGPD.md](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/blob/main/SGSI-ISO-DORA-RGPD.md)      
 ├── [SoA--SGSI-Ch4mbi.md](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/blob/main/SoA--SGSI-Ch4mbi.md)       
 ├── README.md                  
