@@ -21,23 +21,41 @@ El objetivo es demostrar cómo se estructura un SGSI real en el sector financier
 ## Estructura 
 
 SGSI-ISO27001-27002-DORA-RGPD/
+
 ├── [Documentos/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos)
+
 │   ├── [1. Contexto/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/1.%20Contexto)
+
 │   ├── [2. Marco normativo/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/2%2C%20Marco%20normativo)
+
 │   ├── [3. Terminos-y-definiciones/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/3.%20Terminos-y-definiciones)
+
 │   ├── [4. Liderazgo-del-SGSI/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/4.%20Liderazgo-del-SGSI)
+
 │   ├── [5. Alcance/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/5.%20Alcance)
+
 │   ├── [6. Planificación/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/6.%20Planificsaci%C3%B3n)
+
 │   ├── [7. Activos-y-riesgos/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/7.%20Activos-y-riesgos)
+
 │   ├── [8. Implantación/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/8.%20Implantaci%C3%B3n)
+
 │   ├── [9. Operación/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/9.%20Operaci%C3%B3n)
+
 │   ├── [10. Evaluación del desempeño/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/10.%20Evaluaci%C3%B3n%20del%20desempe%C3%B1o)
+
 │   ├── [11. Analisis critico/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/11.%20Analisis%20critico)
+
 │   ├── [12. Mapa-de-implementacion/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/12.%20Mapa-de-implementacion)
+
 │   └── [13. Conclusiones/](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/tree/main/Documentos/14.%20Conclusiones)
+
 ├── [SoA--SGSI-Ch4mbi.md](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/blob/main/SoA--SGSI-Ch4mbi.md)
+
 ├── [SGSI-ISO-DORA-RGPD.md](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD/blob/main/SGSI-ISO-DORA-RGPD.md)
+
 ├── README.md
+
 └── LICENSE
 
 ## Contenido del SGSI
