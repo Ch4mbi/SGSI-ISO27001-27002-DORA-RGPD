@@ -1,0 +1,18 @@
+## **13.1. Monitorización**
+
+La monitorización continua se implementa por medio de indicadores de desempeño y de riesgo. Se analizarán datos “voluminosos”, es decir, que solo se monitorizarán y analizarán aquellos riesgos de los cuales existen datos significativos y fiables. También hay que tener en cuenta que los objetivos se harán en base a los riesgos mas graves, por lo que los asumibles no se incluirán.
+
+| Indicador | Objetivo | Frecuencia  |
+| :---: | ----- | :---: |
+| **Media de incidentes phishing detectados** | En 12 meses haber detectado exitosamente al menos un 35% de los casos |  Mensual |
+| **Media de tiempo de detección** | Detectar el ataque o incidente en menos de 24 horas | Semanal |
+| **Media de tiempo de respuesta** | Mitigar el incidente en torno a las 48 horas de su detección | Semanal |
+| **Empleados con MFA** | Que todos los empleados del banco tengan MFA activo | Mensual |
+| **Backups 3-2-1** | Cubrir con backups los sistemas críticos | Semanal |
+| **Disponibilidad banca online** | Que la disponibilidad de la banca online sea de al menos el 90% del tiempo |  Trimestral |
+| **Empleados al día respecto a formación** | Que el 85% de los empleados estén formados correctamente | Trimestral |
+| **Porcentaje de éxito de simulacros phishing** | Que el porcentaje de éxito de las campañas de phishing se reduzca |  Trimestral |
+
+(Sánchez, 2024)  
+(López, 2025)  
+(TOOLS, 2026)
